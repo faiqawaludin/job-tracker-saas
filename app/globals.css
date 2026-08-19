@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Pengaturan warna background dasar */
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
